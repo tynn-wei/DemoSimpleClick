@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">DemoSimpleClick</string>
+    <string name="but1">DISPLAY</string>
+    <string name="txt1">Enter Something</string>
+    <string name="tvDefault">Display what the user enters</string>
+
+    <string name ="txtPersonName">Name</string>
+
+    <string name="disabled">Disabled</string>
+    <string name="enabled">Enabled</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+
+    <string name="tb">Toggle Button</string>
+
+
+
+</resources>
